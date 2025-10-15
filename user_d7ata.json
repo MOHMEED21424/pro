@@ -1,0 +1,23 @@
+{
+    "5753218765": {
+        "templates": {},
+        "known_chats": {},
+        "scheduling": {
+            "active": true,
+            "step": "group_type",
+            "templates": [
+                {
+                    "text": "متوفر نتفلكس \nشهر ب 1$ \nشهرين ب 2$ \nسنوي ب 5$ + متوفر جميع المدات \nللطلب : @lpijer"
+                },
+                {
+                    "text": "متوفرة ارقام تلجرام ضمان ضد الحظر  \nسعر رقم ب 2$\nللطلب ورؤية العروض : @lpijer"
+                }
+            ],
+            "interval": 600,
+            "count": 100,
+            "last_msg_id": [
+                163788
+            ]
+        }
+    }
+}
